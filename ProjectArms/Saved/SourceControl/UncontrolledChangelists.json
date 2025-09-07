@@ -1,0 +1,43 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"F:/ProjectArms/ProjectArms/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"F:/ProjectArms/ProjectArms/Content/UI/UI_EndScreen.uasset",
+				"F:/ProjectArms/ProjectArms/Content/Arms/Arm_Base.uasset",
+				"F:/ProjectArms/ProjectArms/Content/Weapons/Weapon_Base.uasset",
+				"F:/ProjectArms/ProjectArms/Content/Weapons/Weapon_Info.uasset",
+				"F:/ProjectArms/ProjectArms/Content/ThirdPerson/Input/Actions/IA_Fire.uasset",
+				"F:/ProjectArms/ProjectArms/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"F:/ProjectArms/ProjectArms/Content/Weapons/Projectile_Base.uasset",
+				"F:/ProjectArms/ProjectArms/Content/Arms/Arms_Comp.uasset",
+				"F:/ProjectArms/ProjectArms/Content/Arms/Meshes/PH_Arm.uasset",
+				"F:/ProjectArms/ProjectArms/Content/Arms/Meshes/PH_Arm_PhysicsAsset.uasset",
+				"F:/ProjectArms/ProjectArms/Content/Arms/Meshes/PH_Arm_Skeleton.uasset",
+				"F:/ProjectArms/ProjectArms/Content/Weapons/Meshes/PH_Gun.uasset",
+				"F:/ProjectArms/ProjectArms/Content/Weapons/Meshes/PH_Gun_PhysicsAsset.uasset",
+				"F:/ProjectArms/ProjectArms/Content/Weapons/Meshes/PH_Gun_Skeleton.uasset",
+				"F:/ProjectArms/ProjectArms/Content/Arms/Meshes/PH_ArmAnimBP.uasset",
+				"F:/ProjectArms/ProjectArms/Content/UI/UI_HUD.uasset",
+				"F:/ProjectArms/ProjectArms/Content/Weapons/WeaponDrop_Base.uasset",
+				"F:/ProjectArms/ProjectArms/Content/Enemies/Enemy_Base.uasset",
+				"F:/ProjectArms/ProjectArms/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/7E/N925SG2A295327KI7J72SF.uasset",
+				"F:/ProjectArms/ProjectArms/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/Y7/O55WQM2HBJIG6UND7JPT4P.uasset",
+				"F:/ProjectArms/ProjectArms/Content/Enemies/BB_Enemy.uasset",
+				"F:/ProjectArms/ProjectArms/Content/Enemies/BT_Enemy.uasset",
+				"F:/ProjectArms/ProjectArms/Content/Enemies/AIController_Enemy.uasset",
+				"F:/ProjectArms/ProjectArms/Content/Enemies/EnemyType.uasset",
+				"F:/ProjectArms/ProjectArms/Content/Blueprints/BPI_TeamInterface.uasset",
+				"F:/ProjectArms/ProjectArms/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/JV/ZXCAJORPJS2A16RDEO8Y6L.uasset",
+				"F:/ProjectArms/ProjectArms/Content/ThirdPerson/Blueprints/Enemy_Base.uasset",
+				"F:/ProjectArms/ProjectArms/Content/Enemies/AICont_Enemy.uasset",
+				"F:/ProjectArms/ProjectArms/Content/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"F:/ProjectArms/ProjectArms/Content/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"F:/ProjectArms/ProjectArms/Content/Film_and_VHS_Filters/Ressources/GrainyShortScans.uasset"
+			]
+		}
+	]
+}
